@@ -1,4 +1,3 @@
-```s
 
 | Join my discord server [here](https://discord.gg/ekgf4N5U2a) |
 | ------------------------------------------------------------ |
@@ -11,9 +10,9 @@
 
 ## Installation
 
-```s
 
-- 1 ensure [abl-drone]
+
+- 1 `ensure [abl-drone]`
 
 ```
 - 2 - Add the item images to your inventory script
